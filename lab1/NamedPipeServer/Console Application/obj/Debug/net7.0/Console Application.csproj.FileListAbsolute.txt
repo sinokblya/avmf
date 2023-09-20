@@ -1,0 +1,14 @@
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\bin\Debug\net7.0\Console Application.exe
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\bin\Debug\net7.0\Console Application.deps.json
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\bin\Debug\net7.0\Console Application.runtimeconfig.json
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\bin\Debug\net7.0\Console Application.dll
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\bin\Debug\net7.0\Console Application.pdb
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\Console Application.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\Console Application.AssemblyInfo.cs
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\Console Application.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\Console Application.dll
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\refint\Console Application.dll
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\Console Application.pdb
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\Console Application.genruntimeconfig.cache
+C:\Users\Иван\source\repos\NamedPipeServer\Console Application\obj\Debug\net7.0\ref\Console Application.dll
