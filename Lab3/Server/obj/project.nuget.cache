@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldl/3HdDTi9OWMdYuC4W5SeXG711qHSyveqURAGd0G1C4pT5i3I1eAeZWViCCSt8BEZcK+rq1S+t2IMfpaIr6w==",
+  "success": true,
+  "projectFilePath": "/home/maslenok/Рабочий стол/LEFRODO1/KPA/Lab3/Server/Server.csproj",
+  "expectedPackageFiles": [
+    "/home/maslenok/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/maslenok/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/maslenok/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

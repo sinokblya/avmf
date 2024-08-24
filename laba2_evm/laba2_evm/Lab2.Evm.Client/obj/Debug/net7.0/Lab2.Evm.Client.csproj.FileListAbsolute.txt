@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\bin\Debug\net7.0\Lab2.Evm.Client.exe
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\bin\Debug\net7.0\Lab2.Evm.Client.deps.json
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\bin\Debug\net7.0\Lab2.Evm.Client.runtimeconfig.json
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\bin\Debug\net7.0\Lab2.Evm.Client.dll
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\bin\Debug\net7.0\Lab2.Evm.Client.pdb
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\Lab2.Evm.Client.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\Lab2.Evm.Client.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\Lab2.Evm.Client.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\Lab2.Evm.Client.AssemblyInfo.cs
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\Lab2.Evm.Client.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\Lab2.Evm.Client.dll
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\refint\Lab2.Evm.Client.dll
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\Lab2.Evm.Client.pdb
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\Lab2.Evm.Client.genruntimeconfig.cache
+\\Mac\Home\Desktop\laba2_evm\Lab2.Evm.Client\obj\Debug\net7.0\ref\Lab2.Evm.Client.dll
